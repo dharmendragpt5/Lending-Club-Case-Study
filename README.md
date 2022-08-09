@@ -1,6 +1,5 @@
-# Lending Club Case Study
-
-### Group Members
+## Lending Club Case Study
+#### Group Members
 - Dharmendra Kumar
 - Anuja Gurav
 
