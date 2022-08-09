@@ -1,8 +1,8 @@
-## Lending Club Case Study
+### Lending Club Case Study
 #### Group Members
 - Dharmendra Kumar
 - Anuja Gurav
-## Goals of data analysis:  
+### Goals of data analysis:  
 
 This assignment will give us an idea about how real business problems are solved or can 
 reduce the error in every business using EDA. In this case, 
