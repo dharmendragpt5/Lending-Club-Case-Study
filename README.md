@@ -2,7 +2,6 @@
 #### Group Members
 - Dharmendra Kumar
 - Anuja Gurav
-
 ## Goals of data analysis:  
 
 This assignment will give us an idea about how real business problems are solved or can 
