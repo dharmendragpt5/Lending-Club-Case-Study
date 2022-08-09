@@ -47,5 +47,5 @@ When a person applies for a loan, there are two types of decisions that could be
 
 
 
-##### Kindly check < ahref='https://github.com/dharmendragpt5/Lending-Club-Case-Study'>Lending-Club-Case-Study.pdf</a> for Detail Presentation.
+##### Kindly check <a href='https://github.com/dharmendragpt5/Lending-Club-Case-Study'>Lending-Club-Case-Study.pdf</a> for Detail Presentation.
 
