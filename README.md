@@ -47,5 +47,5 @@ When a person applies for a loan, there are two types of decisions that could be
 
 
 
-##### Developed this Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
+##### Kindly check < ahref='https://github.com/dharmendragpt5/Lending-Club-Case-Study'>Lending-Club-Case-Study.pdf</a> for Detail Presentation.
 
