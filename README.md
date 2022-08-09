@@ -40,21 +40,24 @@ When a person applies for a loan, there are two types of decisions that could be
     is not available with the company (and thus in this dataset)
 
 
-Step 1: Data Cleaning
-          a.Fixing rows and column
-          b.Null Values/Missing Values
-Step 2: Standardizing values
-           a. Standardize units
+
+#### Step 1: Data Cleaning
+             a.Fixing rows and column
+             b.Null Values/Missing Values
+#### Step 2: Standardizing values
+             a. Standardize units
              b. Remove Outliers
              c. Invalid Values
              d. Filtering data
-Step 3: Univariate Analysis
-Step 4: Segemented Univariate Analysis
-Step 5: Bivaraiate/Multivariate Analysis
-Step 6: Visualizing
-Step 7: Results/Observation
+#### Step 3: Univariate Analysis
+#### Step 4: Segemented Univariate Analysis
+#### Step 5: Bivaraiate/Multivariate Analysis
+#### Step 6: Visualizing
+#### Step 7: Results/Observation
 
 
 
-Developed this Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
- 
+
+
+##### Developed this Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
+
