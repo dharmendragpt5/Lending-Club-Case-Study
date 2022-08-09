@@ -17,9 +17,6 @@ The main objective is to be able to identify these bad loan applicants,
 By avoiding this type of bad loans will reduced the amount of credit loss. 
 Identification of such applicants using EDA is the aim of this case study.   
 
-Perform an analysis to understand the driving factors (or driver variables)
-behind loan default, i.e.the variables which are strong indicators of default.  
-
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
     1. Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
@@ -33,7 +30,6 @@ When a person applies for a loan, there are two types of decisions that could be
     2 .Loan rejected: The company had rejected the loan (because the candidate does not 
     meet their requirements etc.). Since the loan was rejected, there is no transactional history 
     of those applicants with the company and so this data is not available with the company (and thus in this dataset)
-
 
 ##### Step 1: Data Cleaning
              a.Fixing rows and column
